@@ -1,0 +1,15 @@
+# Local build outputs
+*_buggy
+*_fixed
+*_asan
+*_tsan
+*.dSYM/
+
+# Crash/debug artifacts
+core
+core.*
+*.log
+
+# Editor and OS noise
+.DS_Store
+*.swp
